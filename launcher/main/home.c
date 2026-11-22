@@ -64,7 +64,7 @@ static const char *TAG = "home";
 #pragma GCC diagnostic ignored "-Wformat-truncation"
 
 #define LAST_APP_FILE "/sd/launcher/last_app.txt"
-#define MAX_APPS      64           /* apps + folders */
+#define MAX_APPS      256          /* apps + folders */
 #define MAX_NAME      24           /* folder name */
 #define ICON          88
 
